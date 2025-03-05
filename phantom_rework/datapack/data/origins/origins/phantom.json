@@ -11,6 +11,7 @@
 		"origins:phantomize_overlay",
 		"origins:phantomize_callback",
 		"origins:phantom_no_sleep"
+		
 	],
 	"icon": "minecraft:phantom_membrane",
 	"order": 2,
