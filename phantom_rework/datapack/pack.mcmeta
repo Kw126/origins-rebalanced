@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Changes the phasing render type to remove blocks and adds a prevent sleep"
+  }
+}

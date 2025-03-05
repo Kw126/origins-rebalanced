@@ -1,0 +1,14 @@
+{
+	"type": "origins:prevent_sleep",
+	"name": "phantom_no_sleep",
+	"description": "Removes the phantom's ability to sleep",
+	"block_condition": {
+    "type": "origins:height",
+    "comparison": ">=",
+    "compare_to": -60
+	},
+	"set_spawn_point":true,
+	"message": {
+		"text": "You're a phantom, Why do you need sleep?"
+	}
+}
